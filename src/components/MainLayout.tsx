@@ -226,7 +226,7 @@ const MainLayout: React.FC<LayoutProps> = ({ children }) => {
               className="text-2xl font-bold text-white cursor-pointer"
               onClick={() => navigate('/')}
             >
-              Web3 Tribes
+              Xion Tribe
             </h1>
             <nav className="ml-10 hidden md:flex space-x-6">
               <button 
